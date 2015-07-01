@@ -72,6 +72,7 @@
   - [Day 2](#day122)
   - [Day 3](#day123)
   - [Day 4](#day124)
+  - party
 
 ## <a name="week1"></a> Week 1
 #### <a name="day11"></a> Day 1 - Git & Version Control
